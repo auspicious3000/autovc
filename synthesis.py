@@ -45,7 +45,6 @@ def wavegen(model, c=None, tqdm=tqdm):
     """Generate waveform samples by WaveNet.
     
     """
-    c = c.numpy()
 
     model.eval()
     model.make_generation_fast_()
