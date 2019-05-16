@@ -4,6 +4,8 @@ This repository provides a PyTorch implementation of AUTOVC.
 
 AUTOVC is a many-to-many non-parallel voice conversion framework. 
 
+**_To ensure respect for privacy rights and responsible use of our code, we are only releasing a portion of our code to allow users to convert voices among a predefined set of speakers in VCTK. Conversions from and to other voices have been disabled._**
+
 
 ### Audio Demo
 
