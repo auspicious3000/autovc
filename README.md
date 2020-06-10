@@ -1,5 +1,7 @@
 ## AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 
+# Checkout our new project: Unsupervised Speech Decomposition via Triple Information Bottleneck http://arxiv.org/abs/2004.11284
+
 This repository provides a PyTorch implementation of AUTOVC.
 
 AUTOVC is a many-to-many non-parallel voice conversion framework. 
