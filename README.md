@@ -6,7 +6,11 @@ This repository provides a PyTorch implementation of AUTOVC.
 
 AUTOVC is a many-to-many non-parallel voice conversion framework. 
 
-**_To ensure respect for privacy rights and responsible use of our code, we are only releasing a portion of our code to allow users to convert voices among a predefined set of speakers in VCTK. Conversions from and to other voices have been disabled._**
+If you find this work useful and use it in your research, please consider citing our paper.
+
+```
+@InProceedings{pmlr-v97-qian19c, title = {{A}uto{VC}: Zero-Shot Voice Style Transfer with Only Autoencoder Loss}, author = {Qian, Kaizhi and Zhang, Yang and Chang, Shiyu and Yang, Xuesong and Hasegawa-Johnson, Mark}, pages = {5210--5219}, year = {2019}, editor = {Kamalika Chaudhuri and Ruslan Salakhutdinov}, volume = {97}, series = {Proceedings of Machine Learning Research}, address = {Long Beach, California, USA}, month = {09--15 Jun}, publisher = {PMLR}, pdf = {http://proceedings.mlr.press/v97/qian19c/qian19c.pdf}, url = {http://proceedings.mlr.press/v97/qian19c.html} }
+```
 
 
 ### Audio Demo
