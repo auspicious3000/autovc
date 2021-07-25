@@ -1,6 +1,8 @@
 ## AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 
-## Checkout our new project: Unsupervised Speech Decomposition for Rhythm, Pitch, and Timbre Conversion https://github.com/auspicious3000/SpeechSplit
+## Checkout our new project: Global Rhythm Style Transfer Without Text Transcriptions https://github.com/auspicious3000/AutoPST
+
+### Checkout our new project: Unsupervised Speech Decomposition for Rhythm, Pitch, and Timbre Conversion https://github.com/auspicious3000/SpeechSplit
 
 This repository provides a PyTorch implementation of AUTOVC.
 
