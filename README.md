@@ -40,7 +40,7 @@ The audio demo for AUTOVC can be found [here](https://auspicious3000.github.io/a
 
 Download pre-trained AUTOVC model, and run the ```conversion.ipynb``` in the same directory.
 
-The fast and high-quality hifi-gan v1 (https://github.com/jik876/hifi-gan) pre-trained model is now available here. [link](https://drive.google.com/file/d/1n76jHs8k1sDQ3Eh5ajXwdxuY_EZw4N9N/view?usp=sharing)
+The fast and high-quality hifi-gan v1 (https://github.com/jik876/hifi-gan) pre-trained model is now available [here.](https://drive.google.com/file/d/1n76jHs8k1sDQ3Eh5ajXwdxuY_EZw4N9N/view?usp=sharing)
 
 
 ### 1.Mel-Spectrograms to waveform
