@@ -33,14 +33,14 @@ The audio demo for AUTOVC can be found [here](https://auspicious3000.github.io/a
 
 | AUTOVC | Speaker Encoder | WaveNet Vocoder |
 |----------------|----------------|----------------|
-| [link](https://drive.google.com/file/d/1SZPPnWAgpGrh0gQ7bXQJXXjOntbh4hmz/view?usp=sharing)| [link](https://drive.google.com/file/d/1ORAeb4DlS_65WDkQN6LHx5dPyCM5PAVV/view?usp=sharing) | [link](https://drive.google.com/file/d/1Zksy0ndlDezo9wclQNZYkGi_6i7zi4nQ/view?usp=sharing) |
+| [link](https://ibm.box.com/s/upmfbstk8n8ded0xd3aaic4ayclh90ee)| [link](https://ibm.box.com/s/k4nyvzkz26r9ux1o8rcq9tov36h69o2e) | [link](https://ibm.box.com/s/pdr8b0z5oim9q0p4be496mt3ue5lb004) |
 
 
 ### 0.Convert Mel-Spectrograms
 
 Download pre-trained AUTOVC model, and run the ```conversion.ipynb``` in the same directory.
 
-The fast and high-quality hifi-gan v1 (https://github.com/jik876/hifi-gan) pre-trained model is now available [here.](https://drive.google.com/file/d/1n76jHs8k1sDQ3Eh5ajXwdxuY_EZw4N9N/view?usp=sharing)
+The fast and high-quality hifi-gan v1 (https://github.com/jik876/hifi-gan) pre-trained model is now available [here.](https://ibm.box.com/s/asvv554v0zd09yipl2qadz49i7jpdhta)
 
 
 ### 1.Mel-Spectrograms to waveform
